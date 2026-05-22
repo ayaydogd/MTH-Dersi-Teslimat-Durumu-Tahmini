@@ -47,6 +47,7 @@ E-ticaret sektörünün hızla büyümesiyle birlikte kargo teslim performansı 
    streamlit run app.py
 
 3. Tarayıcıda otomatik açılacak. Açılmazsa http://localhost:8501 adresine gidin.
+https://flatfoot-mammogram-moving.ngrok-free.dev/#e-ticaret-kargo-teslim-tahmin-sistemi bu linki de deneyebilirsiniz.
 
 ## Model Performansı
 
